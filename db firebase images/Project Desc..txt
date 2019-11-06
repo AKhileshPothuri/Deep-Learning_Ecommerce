@@ -1,0 +1,9 @@
+Title :- AI Enabled Cart Conversion
+Description :- Cart Conversion rates are quite low for a good majority of eCommerce companies. We have used Machine Learning and Google Analytics to predict a cart abandonment ahead and provided some ways to inject into the experience a strategy to help the cart conversion.
+
+
+Shots, an Android Application which provides various tech courses for the employees to boost their skills
+ and also provides current tech affairs.The HR team will be able to track their employees performance 
+and interest of domain using their watch history and activity in the application.
+
+
